@@ -1,3 +1,5 @@
+<br>
+
 # :computer: WEBGIS :earth_africa:
 
 <p align = "justify"> 
@@ -7,4 +9,8 @@
 
 <p align = "justify"> 
   Berikut ini tampilan Webgis yang pernah saya buat.
+</p>
+
+<p align="center">
+  <img src="Gambar/.png"></a>
 </p>
