@@ -1,4 +1,3 @@
-<br>
 
 # :computer: WEBGIS :earth_africa:
 
@@ -13,4 +12,8 @@
 
 <p align="center">
   <img src="ss webgis uas sig.PNG"></a>
+</p>
+
+<p align = "justify"> 
+  Untuk melihat lebih jelas nya bisa klik <a href = "https://bit.ly/19611156_DanangBagusWibowo"> disini </a> 
 </p>
