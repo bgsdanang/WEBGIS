@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="Gambar/.png"></a>
+  <img src="ss webgis uas sig.PNG"></a>
 </p>
